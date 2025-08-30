@@ -1,7 +1,6 @@
-# ポーフォリオ用鉄鋼会社  
-
-<img src='https://github.com/user-attachments/assets/ce5f3085-870d-4171-a166-25c9fd5a3611' alt='架空Cafeの画像' width='800px'>  
+# ポーフォリオ用鉄鋼会社   
 <img src="https://github.com/user-attachments/assets/2284d4a4-6e4f-48d9-b11c-e3f95a90711e" width="800px" alt="ポートフォリオ用鉄鋼会社の画像"/>
+
 ## 【URL】  
 - https://yoshiki-kaneko-1994.github.io/demo2/
 
