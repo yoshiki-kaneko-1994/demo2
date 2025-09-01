@@ -1,5 +1,5 @@
 # ポーフォリオ用鉄鋼会社   
-<img src="https://github.com/user-attachments/assets/2284d4a4-6e4f-48d9-b11c-e3f95a90711e" width="800px" alt="ポートフォリオ用鉄鋼会社の画像"/>
+<img src="https://github.com/user-attachments/assets/5c48886d-aeff-4072-bc44-26d64e40fc8e" width="800px" alt="ポートフォリオ用鉄鋼会社の画像"/>  
 
 ## 【URL】  
 - https://yoshiki-kaneko-1994.github.io/demo2/
